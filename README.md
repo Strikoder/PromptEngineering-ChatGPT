@@ -23,10 +23,38 @@ In this repository, you will find a variety of prompts that can be used with Cha
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
 ## Dataset Description
-The datasets consists of three columns:
- 1. Input: This column contains the prompts provided by users as input.
- 2. Output: This column contains the corresponding best prompt that generates optimal output.
- 3. Tags: This column includes tags or labels associated with each prompt.
+| Columns|Description|
+|---|---|
+| User Input Prompt | This column contains the prompts provided by users as input.
+|Best Prompt| This column contains the corresponding best prompt that generates optimal output.
+| Tags| This column includes tags or labels associated with each prompt.               
+
+
+
+# Prompts
+
+
+## Review my IELTS Task 2 essay
+
+> Please review my IELTS Task 2 essay and provide feedback on my errors and suggestions for improving my proficiency.
+
+### Tags
+- English
+- IELTS
+
+#### Contributors
+- [@strikoder](https://github.com/strikoder)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
