@@ -17,7 +17,7 @@ This dataset was inspired by the remarkable contributions showcased in the [awes
 * [Prompts](#Prompts)
 
 # Contribution
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to check the CONTRIBUTING.md file for more details.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to check the [CONTRIBUTION.md](https://github.com/Strikoder/PromptEngineering-ChatGPT/blob/main/CONTRIBUTION.md) file for more details.
 
 To get started, simply clone this repository and use the prompts provided as inspiration for creating your own.
 
