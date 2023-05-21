@@ -6,7 +6,7 @@ Welcome to the repository dedicated to enhancing the prompts used in ChatGPT, a 
 
 ### Dataset and Motivation
 
-The dataset available in this repository serves as a valuable asset for training and fine-tuning the GPT API, benefiting both developers and users by enhancing the output quality of ChatGPT. The motivation behind creating this dataset stems from the recognition that the prompts used significantly impact the generated responses of ChatGPT. We have curated this dataset to address the need for enhanced user prompts, resulting in more refined and desirable model outputs.
+The dataset available in this repository serves as a valuable asset for training and fine-tuning the GPT output. The motivation behind creating this dataset stems from the recognition that the prompts used significantly impact the generated responses of ChatGPT. We have curated this dataset to address the need for enhanced user prompts, resulting in more refined and desirable model outputs.
 
 This dataset was inspired by the remarkable contributions showcased in the [awesome-chatgpt-prompts repository](https://github.com/f/awesome-chatgpt-prompts)
 
