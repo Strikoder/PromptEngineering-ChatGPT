@@ -1,6 +1,6 @@
 # Repository Purpose
 
-### overview
+### Overview
 
 Welcome to the repository dedicated to enhancing the prompts used in ChatGPT, a powerful language generation model. This repository aims to provide researchers, developers, and users with a dataset that can be utilized to improve the performance of ChatGPT by incorporating more effective prompts. Our ultimate goal is to achieve consistent and contextually appropriate responses, ensuring an exceptional user experience and optimizing overall performance.
 
@@ -21,9 +21,7 @@ In this repository, you will find a variety of prompts that can be used with Cha
 
 To get started, simply clone this repository and use the prompts provided as inspiration for creating your own.
 
-> ℹ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
-
-
+> ℹ **NOTE:** Occasionally, certain prompts may not yield the desired results or may be rejected by the AI. In such cases, we suggest trying again, initiating a new discussion, or logging out and logging back in. If these approaches prove ineffective, we recommend rewriting the prompt using your own sentences while maintaining the original instructions.
 
 # Dataset Description
 | Columns|Description|
