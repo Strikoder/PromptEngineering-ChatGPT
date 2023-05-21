@@ -52,7 +52,7 @@ When contributing to this project, it is important to follow to the following gu
           `-` ``` `ChatGPT` ```
           
 ## Checklist ✅
-- [✔️] I have verified that the prompt functions effectively.
+- [ ] I have verified that the prompt functions effectively.
 - [ ] I have included the prompt in the README.md file following the structure above.
 - [ ] I've added to the `prompts.csv` following the structure menthiond previously.
 
