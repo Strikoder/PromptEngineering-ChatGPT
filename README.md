@@ -43,6 +43,42 @@ To get started, simply clone this repository and use the prompts provided as ins
 ### Contributors
 - [@strikoder](https://github.com/strikoder) 
 
+## Paraphrase the next text
+
+> Paraphrase the next text,Please enhance and refine the following text. I will provide you with a text, and your task is to identify the language, translate it, and respond with the corrected and improved version of my text in English. Replace my simplistic A0-level words and sentences with more sophisticated and eloquent English expressions. The meaning should remain intact, but the language should be elevated and literary. Please only provide the corrections and improvements without any explanations.
+
+
+### Tags
+- English
+
+### Contributors
+- [@strikoder](https://github.com/strikoder) 
+
+## Create a financial plan for a small business
+
+> Create a financial plan for a small business,Please develop innovative methods for financial management. Take into account budgeting, investment strategies, and risk management as you design a financial plan for your client. In certain instances, you may also be required to offer guidance on taxation laws and regulations to assist them in optimizing their earnings. For my initial suggestion, please create a financial plan for a small business emphasizing cost reduction and long-term investments.
+
+
+### Tags
+- Business
+- Finance
+
+### Contributors
+- [@strikoder](https://github.com/strikoder) 
+- `ChatGPT`
+
+## Give me a comprehensive review
+
+> Give me a comprehensive review,Please conduct a comprehensive evaluation of the item I will provide to you. Your review should encompass its advantages, disadvantages, features, and comparisons to similar items.
+
+
+### Tags
+- Evaluation
+- Comparisons
+
+### Contributors
+- [@strikoder](https://github.com/strikoder) 
+
 
 
 
