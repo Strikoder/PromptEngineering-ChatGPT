@@ -57,7 +57,7 @@ When contributing to this project, it is important to follow to the following gu
 - [ ] I've added to the `prompts.csv` following the structure menthiond previously.
 
 
-Please ensure that you have completed all the checklist items and marked them with a tick using the `✔️` symbol.
+Please ensure that you have completed all the checklist items and marked them with a tick using the `x` symbol.
 
 You are ready to [start editing](https://github.com/Strikoder/PromptEngineering-ChatGPT/edit/main/README.md)! What are you waiting for?
 
